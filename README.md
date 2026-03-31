@@ -13,7 +13,7 @@
 
 #### Connect With Me
 
-![https://instagram.com/askarpryg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
-![https://tiktok.com/karrkt](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/askarpryg)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/karrkt)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicorobin28&show_icon=tru&theme=vue-dark)](https://github.com/nicorobin28/github-readme-stats)
