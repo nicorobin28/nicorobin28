@@ -1,7 +1,5 @@
 ## Hi Welcome To My Github Profile 👋
 
-![Askar Prayogo](img/github-header-image.png)
-
 - **🌱 Hi, I'm a passionate tech enthusiast and currently a university student deeply interested in the ever-evolving world of technology.**
 
 - **🚀 I'm constantly learning and building projects that combine frontend and backend technologies. Currently, I'm diving into Android app development using React Native. Let's connect and create something impactful together!**
