@@ -6,7 +6,6 @@
 
 - **🚀 I'm constantly learning and building projects that combine frontend and backend technologies. Currently, I'm diving into Android app development using React Native. Let's connect and create something impactful together!**
 
-![me](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJueGtyd3N4eHJsa2VlOHczMWk3bGJvdGFmdDZwbjI3eGFvZDF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v5xYHQh2y8AiQ/giphy.gif)
 
 #### Skills
 
@@ -14,6 +13,7 @@
 
 #### Connect With Me
 
-![https://instagram.com/askarpryg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://tiktok.com/karrkt](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![https://instagram.com/askarpryg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
+![https://tiktok.com/karrkt](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicorobin28&show_icon=tru&theme=vue-dark)](https://github.com/nicorobin28/github-readme-stats)
